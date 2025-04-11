@@ -1,0 +1,13 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "@babel/cli": "^7.14.0",
+    "@babel/preset-env": "^7.14.0",
+    "core-js": "^3.0.0"
+  }
+}
